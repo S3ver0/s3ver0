@@ -13,7 +13,7 @@
   <a href="https://www.linkedin.com/in/maria-eduarda-severo-99b44a263/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/maria-eduarda-severo-99b44a263/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a> 
 
-  https://i.imgur.com/Gweretf.gif
+  <a href="https://www.linkedin.com/in/maria-eduarda-severo-99b44a263/" target="_blank"><img src="https://i.imgur.com/Gweretf.gif" target="_blank"></a> 
   
   ![snake gif](https://github.com/s3ver0/s3ver0/blob/output/github-contribution-grid-snake.svg)
 
