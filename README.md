@@ -13,12 +13,7 @@
   <a href="https://www.linkedin.com/in/maria-eduarda-severo-99b44a263/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
-  <img src="https://github.com/devalexandre/devalexandre/blob/master/octocat.png?raw=true" width="200" height="200"> [![Alexandre's github stats](https://github-readme-stats.vercel.app/api?username=devalexandre&show_icons=true&theme=dracula)](https://github.com/devalexandre/github-readme-stats)
+  <img src="https://github.com/devalexandre/devalexandre/blob/master/octocat.png?raw=true" width="200" height="200">
   
   ![snake gif](https://github.com/s3ver0/s3ver0/blob/output/github-contribution-grid-snake.svg)
-
-  Passionate about technology, following the evolution and emergence of new languages ​​and new ways of innovating, thus exploring the unknown.
-
--  ⚛️ Moleculer Evangelist
--  ❤️ Javascript Developer
 
